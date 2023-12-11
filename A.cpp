@@ -1,5 +1,6 @@
 
 #include<stdio.h> 
+#include<conio.h>
 
 
 void rvereseArray(int arr[], int start, int end) 
